@@ -6,3 +6,4 @@
 
  $this->db->insert('repo', $tambah);
 ?>
+
